@@ -25,3 +25,40 @@ h1, h2 {
     float: left;
     font-size: 280%;
 }
+
+#menu{
+    font-size: 110%;
+    letter-spacing: 4px;
+}
+
+#menu, #logo {
+    line-height: 75px;
+}
+
+/* Code modified from https://codepen.io/ConStambo/pen/WxRQVq*/
+#menu {
+    float: right;
+}
+#menu li {
+    float: left;
+    margin-right: 30px;
+    list-style-type: none;
+}
+
+#menu a {
+    transition: 0.3s ease;
+    text-decoration: none;
+    color: inherit;
+}
+
+/* Code modified from https://codepen.io/Calloumi/pen/DyKMbj*/
+
+#menu a:hover {
+    border-top: 4px solid #3a3a3a;
+    border-bottom: 4px solid #3a3a3a;
+    padding: 6px 0;
+}
+
+.active {
+    border-bottom: 1px solid #3a3a3a;
+}
