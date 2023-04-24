@@ -110,3 +110,12 @@ h1, h2 {
     margin: 0;
     }
     
+/* welcome section */
+.welcome h2 {
+    text-align: center;
+    margin: 20px 0;
+    }
+    .welcome p, .welcome h4 {
+    text-align: center;
+    margin: 20px 0;
+    }
