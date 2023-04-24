@@ -81,3 +81,32 @@ h1, h2 {
     width: 100%;
     height: auto;
   }
+
+  /* news section */
+  .article {
+    display: block;
+    width: 100%;
+    overflow: hidden;
+    margin-bottom: 20px;
+    }
+    .article h2 {
+    text-align:center;
+    }
+    .article-image {
+    float: right;
+    margin-left: 20px;
+    }
+    .article-image img {
+    display: block;
+    max-width: 100%;
+    max-height:300px;
+    }
+    .article-content {
+    overflow: hidden;
+    }
+    .news-text {
+    font-size: 18px;
+    line-height: 1.5;
+    margin: 0;
+    }
+    
