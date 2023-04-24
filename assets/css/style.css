@@ -158,4 +158,49 @@ h1, h2 {
                     margin: 0 auto;
                     }            
 
-                    
+                    /*footer*/
+                    .footer {
+                        background-color: #9ba472;
+                        overflow: hidden;
+                      }
+                      
+                      .footer-contact {
+                        float: left;
+                        width: 50%;
+                        box-sizing: border-box;
+                        padding: 20px;
+                        color: #3a3a3a;
+                      }
+                      
+                      .footer-social-media {
+                        float: right;
+                        width: 50%;
+                        box-sizing: border-box;
+                        padding: 20px;
+                        text-align: right;
+                      }
+                      
+                      .footer h4 {
+                        margin: 0 0 10px;
+                      }
+                      
+                      ul {
+                        list-style: none;
+                        padding: 0;
+                        margin: 0;
+                      }
+                      
+                      ul li {
+                        margin-bottom: 10px;
+                      }
+                      
+                      .social-networks li {
+                        display: inline-block;
+                      }
+                      
+                      .social-networks i {
+                        font-size: 160%;
+                        margin: 1%;
+                        padding: 5%;
+                        color: #3a3a3a;
+                      }
