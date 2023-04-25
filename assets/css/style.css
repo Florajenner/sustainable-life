@@ -142,6 +142,45 @@ h2 {
   line-height: 1.5;
   margin: 0;
 }
+
+/*tips section*/
+.tip-row {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 20px;
+  padding: 10px;
+}
+
+.tip-card {
+  height: 100%;
+  background-color: #fff;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  transition: 0.3s;
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+.tip-card:hover {
+  box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+}
+
+.tip-card img {
+  max-width: 100%;
+  height: auto;
+}
+
+.tip-card-text {
+  padding: 10px;
+  text-align: center;
+}
+
+.tips {@media screen and (max-width: 600px) {
+  .row {
+      grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+      gap: 10px;
+  }
+}
+}
 /*footer*/
 .footer {
   background-color: #9ba472;
