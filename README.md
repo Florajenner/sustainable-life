@@ -1,108 +1,158 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+About Sustainable Life
+----------------------
 
-Welcome FLORA JENNER,
+Sustainable Life is a website fully committed to promoting sustainable living practices worldwide. Our aim is to encourage individuals to make positive changes in their daily lives that will have a meaningful impact on the environment.
 
-This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
+Screenshots
+-----------
 
-You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Gitpod and the extensions we use. Some of this information has been updated since the video content was created. The last update to this file was: **September 1, 2021**
+![Screenshot of Sustainable Life website](media/screenshot%20of%20sustainable%20life%20website.png)
 
-## Gitpod Reminders
+User Stories
+------------
 
-To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
+As a first-time visitor, you can expect to navigate through the site with ease and find comprehensive information on sustainable living practices that benefit both the environment and yourself.
 
-`python3 -m http.server`
+As a returning visitor, you can expect to receive regular updates and articles on sustainable living practices that you can incorporate into your everyday life to help achieve sustainability.
 
-A blue button should appear to click: _Make Public_,
+As a frequent user, you can expect to find our contact information effortlessly and conveniently for any questions or concerns you may have.
 
-Another blue button should appear to click: _Open Browser_.
-
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
-
-A blue button should appear to click: _Make Public_,
-
-Another blue button should appear to click: _Open Browser_.
-
-In Gitpod you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
-
-To log into the Heroku toolbelt CLI:
-
-1. Log in to your Heroku account and go to *Account Settings* in the menu under your avatar.
-2. Scroll down to the *API Key* and click *Reveal*
-3. Copy the key
-4. In Gitpod, from the terminal, run `heroku_config`
-5. Paste in your API key when asked
-
-You can now use the `heroku` CLI program - try running `heroku apps` to confirm it works. This API key is unique and private to you so do not share it. If you accidentally make it public then you can create a new one with _Regenerate API Key_.
-
+Design
 ------
 
-## Release History
+Our website features a clean and modern design with a focus on sustainability. Its simple layout and ample white space enhance the readability and user experience of the site. The utilization of colors and imagery aligns with the brand's sustainable ethos and evokes an eco-friendly feel.
 
-We continually tweak and adjust this template to help give you the best experience. Here is the version history:
+Color Scheme
+------------
 
-**September 1 2021:** Remove `PGHOSTADDR` environment variable.
+We incorporated natural earthy colors such as forest green (#00755e) and off-white (#f6f6f6) to stimulate a calm and harmonious environment that reflects the brand's sustainable values.
 
-**July 19 2021:** Remove `font_fix` script now that the terminal font issue is fixed.
+Typography
+----------
 
-**July 2 2021:** Remove extensions that are not available in Open VSX.
+The font 'Quattrocento Sans,' used for all headings and subheadings, is sans-serif with clean lines, generating a minimalist and modern look for the website. The choice for this easy-to-read font enhances the readability and clarity for every paragraph text in 'Quattrocento.'
 
-**June 30 2021:** Combined the P4 and P5 templates into one file, added the uptime script. See the FAQ at the end of this file.
+Imagery
+-------
 
-**June 10 2021:** Added: `font_fix` script and alias to fix the Terminal font issue
+The website incorporates images that align with the brand's sustainable ethos showing natural landscapes and sustainable living practices. The use of high-quality images throughout the site helps create an immersive and engaging user experience.
 
-**May 10 2021:** Added `heroku_config` script to allow Heroku API key to be stored as an environment variable.
+Features
+--------
 
-**April 7 2021:** Upgraded the template for VS Code instead of Theia.
+-   Fully Responsive Design - The website is designed to be responsive to a variety of devices, including mobile phones, tablets, laptops, and desktop computers.
 
-**October 21 2020:** Versions of the HTMLHint, Prettier, Bootstrap4 CDN and Auto Close extensions updated. The Python extension needs to stay the same version for now.
+-   Interactive Navigation Menu - The simple and easy-to-use navigation menu allows users to navigate around the site with ease.
 
-**October 08 2020:** Additional large Gitpod files (`core.mongo*` and `core.python*`) are now hidden in the Explorer, and have been added to the `.gitignore` by default.
+![Screenshot of Navigation](media/navigation.png)
 
-**September 22 2020:** Gitpod occasionally creates large `core.Microsoft` files. These are now hidden in the Explorer. A `.gitignore` file has been created to make sure these files will not be committed, along with other common files.
+-   The "Welcome to Sustainable Life" feature highlights the main ways the website helps communities live more sustainably. The section includes four key areas: Tips, Volunteer, News, and Local Councils. This feature quickly establishes the website's aim to provide a comprehensive and useful resource for those interested in sustainable living.
 
-**April 16 2020:** The template now automatically installs MySQL instead of relying on the Gitpod MySQL image. The message about a Python linter not being installed has been dealt with, and the set-up files are now hidden in the Gitpod file explorer.
+![Screenshot of Welcome Section](media/welcome%20section.png)
 
-**April 13 2020:** Added the _Prettier_ code beautifier extension instead of the code formatter built-in to Gitpod.
+-   The "12 Tips" page provides a concise and actionable list of ways to reduce your carbon footprint and live an eco-friendly lifestyle. By offering simple and easy-to-implement suggestions, this section showcases how small changes can make a big impact in promoting a sustainable living lifestyle.
 
-**February 2020:** The initialisation files now _do not_ auto-delete. They will remain in your project. You can safely ignore them. They just make sure that your workspace is configured correctly each time you open it. It will also prevent the Gitpod configuration popup from appearing.
+![Screenshot of Tips Page](media/tips%20section.png)
 
-**December 2019:** Added Eventyret's Bootstrap 4 extension. Type `!bscdn` in a HTML file to add the Bootstrap boilerplate. Check out the <a href="https://github.com/Eventyret/vscode-bcdn" target="_blank">README.md file at the official repo</a> for more options.
+-   The volunteer page encourages users to volunteer and make a positive impact on the world. This section highlights the website's commitment to promoting sustainable living and how users can make a difference in their communities.
+The footer section of Sustainable Life's website includes links to relevant social media sites, allowing users to easily navigate to them in a new tab. These links are valuable to the user, as they encourage them to stay connected with Sustainable Life through various social media platforms.
 
-------
+![Screenshot of Volunteer Page](media/volunteer%20page.png)
 
-## FAQ about the uptime script
+-   The footer section of Sustainable Life's website includes links to relevant social media sites, allowing users to easily navigate to them in a new tab. These links are valuable to the user, as they encourage them to stay connected with Sustainable Life through various social media platforms.
 
-**Why have you added this script?**
+![Screenshot of Footer](media/footer.png)
 
-It will help us to calculate how many running workspaces there are at any one time, which greatly helps us with cost and capacity planning. It will help us decide on the future direction of our cloud-based IDE strategy.
+Languages, Tools & Technologies Used
+------------------------------------
 
-**How will this affect me?**
+-   HTML5
+-   CSS
 
-For everyday usage of Gitpod, it doesn’t have any effect at all. The script only captures the following data:
+##### Google Fonts
 
-- An ID that is randomly generated each time the workspace is started.
-- The current date and time
-- The workspace status of “started” or “running”, which is sent every 5 minutes.
+-   We sourced the fonts, 'Quattrocento Sans' and 'Quattrocento,' from Google Fonts.
 
-It is not possible for us or anyone else to trace the random ID back to an individual, and no personal data is being captured. It will not slow down the workspace or affect your work.
+##### Font Awesome
 
-**So….?**
+-   We integrated Font Awesome icons into the navbar to improve the user experience.
 
-We want to tell you this so that we are being completely transparent about the data we collect and what we do with it.
+##### Git
 
-**Can I opt out?**
+-   We utilized Git for version control, allowing for easy 'commit' and 'push' commands through the terminal.
 
-Yes, you can. Since no personally identifiable information is being captured, we'd appreciate it if you let the script run; however if you are unhappy with the idea, simply run the following commands from the terminal window after creating the workspace, and this will remove the uptime script:
+##### Github
 
-```
-pkill uptime.sh
-rm .vscode/uptime.sh
-```
+-   The code was stored on Github for a seamless and collaborative workflow.
 
-**Anything more?**
+## Deployment
 
-Yes! We'd strongly encourage you to look at the source code of the `uptime.sh` file so that you know what it's doing. As future software developers, it will be great practice to see how these shell scripts work.
+### GitHub Pages
 
----
+#### To access the GitHub Repository settings and publish the website, follow these steps:
 
-Happy coding!
+* Log in to GitHub and navigate to the GitHub Repository.
+
+* Click on the gear icon for settings.
+
+* Find the GitHub Pages section and click on the 'Check it out here!' link.
+
+* Under the Source header, select 'main' from the dropdown menu and choose the folder '/ (root)'.
+
+* Click on Save.
+
+* After the page refreshes, locate the published website link found under the GitHub Pages header.
+
+#### If you wish to create a safe copy of the project to experiment with changes, follow these steps:
+
+* Log in to GitHub and navigate to the GitHub Repository.
+
+* Click the "Fork" button near the top of the page to create a copy of the repository.
+
+#### To make a local clone, click on the 'Code' button.
+
+* Under "Clone with HTTPS", click the clipboard icon to copy the link.
+
+* Open Git Bash and change the current working directory to the location where you want the cloned directory.
+
+* Type 'git clone', add a space, and paste the URL that was copied earlier (in step 4). Press enter to create a clone.
+
+For a more detailed guide with screenshots, click [here.](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository#cloning-a-repository-to-github-desktop)
+
+## Content
+
+All content written by Flora Jenner (Developer).
+
+The example Code Institute Read Me file, which this Read Me file is based on.
+
+## Media
+
+All images were sourced from Unsplash --- a site that provides images for free for commercial and non-commercial use.
+
+## Validator Testing
+
+Both the HTML5 and CSS3 code was put through WSC validators.
+
+HTML5 passed with a warning that I decided was best not to change as it would have ment incorporating an unnecessary div element.
+
+Css3 passed without errors.
+
+## Future projects
+
+Looking ahead, the vision for the website includes incorporating user-friendly sharing features, allowing our users to effortlessly share content.
+
+## Credits
+
+The navigation hover effect was modified from the code available at https://codepen.io/Calloumi/pen/DyKMbj.
+
+The 4-column layout in the welcome section of the website drew inspiration from the example available at https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_four_columns_responsive.
+
+The volunteer signup form used some code snippets from https://www.w3schools.com/howto/howto_css_register_form.asp as a reference.
+
+The use of inspirational Hero images was inspired by the "Love running" walkthrough project by [The Code Institute.](https://codeinstitute.net/)
+
+## Acknowledgements
+
+My Mentor, Spencer Barriball, for his thoughtful and helpful feedback.
+
+Tutor support at Code Institute for their support and assistance.
