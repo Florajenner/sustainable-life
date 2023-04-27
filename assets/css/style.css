@@ -11,6 +11,7 @@
   margin: 0;
   padding: 0;
   border: none;
+  box-sizing: border-box;
 }
 body {
   font-family: Quattrocento, sans-serif;
@@ -79,10 +80,6 @@ h2 {
   text-align: center;
   margin: 20px 0;
 }
-/*modified from w3schools.com*/
-* {
-  box-sizing: border-box;
-}
 /* Create four equal columns that floats next to each other */
 .column {
   float: left;
@@ -95,12 +92,6 @@ h2 {
   content: "";
   display: table;
   clear: both;
-}
-/* Responsive layout - makes the four columns stack on top of each other instead of next to each other */
-@media screen and (max-width: 600px) {
-  .column {
-    width: 100%;
-  }
 }
 /*add circle div around symbols*/
 .circle {
@@ -168,13 +159,6 @@ h2 {
   padding: 10px;
   text-align: center;
 }
-.tips {@media screen and (max-width: 600px) {
-  .row {
-      grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-      gap: 10px;
-  }
-}
-}
 /* Volunteer page*/
  /* modified from w3schools */
  
@@ -235,6 +219,13 @@ input[type=submit]:hover {
   .volunteer-container {
     width: 100%;
     margin-top: 0;
+  }
+  .row {
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 10px;
+  }
+  .column {
+    width: 100%;
   }
 }
 /*footer*/
