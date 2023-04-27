@@ -15,7 +15,7 @@ As a first-time visitor, you can expect to navigate through the site with ease a
 
 As a returning visitor, you can expect to receive regular updates and articles on sustainable living practices that you can incorporate into your everyday life to help achieve sustainability.
 
-As a frequent user, you can expect to find our contact information effortlessly and conveniently for any questions or concerns you may have.
+As a frequent user, you can expect to find our contact information effortlessly for any questions or concerns you may have.
 
 Design
 ------
@@ -30,7 +30,7 @@ We incorporated natural earthy colors such as forest green (#00755e) and off-whi
 Typography
 ----------
 
-The font 'Quattrocento Sans,' used for all headings and subheadings, is sans-serif with clean lines, generating a minimalist and modern look for the website. The choice for this easy-to-read font enhances the readability and clarity for every paragraph text in 'Quattrocento.'
+The font 'Quattrocento Sans' used for all headings and subheadings, is sans-serif with clean lines, generating a minimalist and modern look for the website. The font choice for paragraphs is 'Quattrocento'. This easy-to-read font ensures readability and clarity.
 
 Imagery
 -------
@@ -50,12 +50,16 @@ Features
 
 ![Screenshot of Welcome Section](media/welcome%20section.png)
 
--   The "12 Tips" page provides a concise and actionable list of ways to reduce your carbon footprint and live an eco-friendly lifestyle. By offering simple and easy-to-implement suggestions, this section showcases how small changes can make a big impact in promoting a sustainable living lifestyle.
+-   The "12 Tips" page provides a concise and actionable list of ways to reduce your carbon footprint and live an eco-friendly lifestyle. By offering simple and easy-to-implement suggestions, this section showcases how small changes can make a big impact in promoting a sustainable living lifestyle. 
 
 ![Screenshot of Tips Page](media/tips%20section.png)
 
+-   The news section on the website showcases a specific news article that highlights the growing trend of community vegetable gardens in the UK. By including this article, the website demonstrates its commitment to staying up-to-date with the latest sustainability news and trends.
+
+![Screenshot of Tips Page](media/news%20section.png)
+
 -   The volunteer page encourages users to volunteer and make a positive impact on the world. This section highlights the website's commitment to promoting sustainable living and how users can make a difference in their communities.
-The footer section of Sustainable Life's website includes links to relevant social media sites, allowing users to easily navigate to them in a new tab. These links are valuable to the user, as they encourage them to stay connected with Sustainable Life through various social media platforms.
+
 
 ![Screenshot of Volunteer Page](media/volunteer%20page.png)
 
@@ -135,7 +139,13 @@ Both the HTML5 and CSS3 code was put through WSC validators.
 
 HTML5 passed with a warning that I decided was best not to change as it would have ment incorporating an unnecessary div element.
 
+![validator warning](media/validator-warning.png)
+
 Css3 passed without errors.
+
+Lighouse showed good scores.
+
+![Lighthouse](media/lighthouse.png)
 
 ## Future projects
 
