@@ -155,7 +155,7 @@ Looking ahead, the vision for the website includes incorporating user-friendly s
 
 The navigation hover effect was modified from the code available at [codepen](https://codepen.io/Calloumi/pen/DyKMbj.)
 
-The 4-column layout in the welcome section of the website drew inspiration from the example available at [W3 Schools](https://www.w3schools.com/)howto/tryit.asp?filename=tryhow_css_four_columns_responsive.
+The 4-column layout in the welcome section of the website drew inspiration from the example available at [W3 Schools](https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_four_columns_responsive.)
 
 The grid layout was modified from defensive css [Defensive CSS](https://defensivecss.dev/tip/auto-fit-fill/) and [codepen](https://codepen.io/Calloumi/pen/DyKMbj.)
 

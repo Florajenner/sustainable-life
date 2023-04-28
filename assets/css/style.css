@@ -134,6 +134,7 @@ h2 {
   margin: 0;
 }
 /*tips section*/
+/* modified from w3schools and defensivecss.dev*/
 .tip-row {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
