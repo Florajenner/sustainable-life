@@ -153,11 +153,13 @@ Looking ahead, the vision for the website includes incorporating user-friendly s
 
 ## Credits
 
-The navigation hover effect was modified from the code available at https://codepen.io/Calloumi/pen/DyKMbj.
+The navigation hover effect was modified from the code available at [codepen](https://codepen.io/Calloumi/pen/DyKMbj.)
 
-The 4-column layout in the welcome section of the website drew inspiration from the example available at https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_four_columns_responsive.
+The 4-column layout in the welcome section of the website drew inspiration from the example available at [W3 Schools](https://www.w3schools.com/)howto/tryit.asp?filename=tryhow_css_four_columns_responsive.
 
-The volunteer signup form used some code snippets from https://www.w3schools.com/howto/howto_css_register_form.asp as a reference.
+The grid layout was modified from defensive css [Defensive CSS](https://defensivecss.dev/tip/auto-fit-fill/) and [codepen](https://codepen.io/Calloumi/pen/DyKMbj.)
+
+The volunteer signup form used some code snippets from [W3 Schools](https://www.w3schools.com/howto/howto_css_register_form.asp) as a reference.
 
 The use of inspirational Hero images was inspired by the "Love running" walkthrough project by [The Code Institute.](https://codeinstitute.net/)
 
