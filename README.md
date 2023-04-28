@@ -1,7 +1,7 @@
 About Sustainable Life
 ----------------------
 
-Sustainable Life is a website fully committed to promoting sustainable living practices worldwide. Our aim is to encourage individuals to make positive changes in their daily lives that will have a meaningful impact on the environment.
+Sustainable Life is a website fully committed to promoting sustainable living practices in the UK. The website aims to encourage individuals to make small but effective changes in their daily lives that will have a positive impact on the environment.
 
 Screenshots
 -----------
@@ -11,21 +11,22 @@ Screenshots
 User Stories
 ------------
 
-As a first-time visitor, you can expect to navigate through the site with ease and find comprehensive information on sustainable living practices that benefit both the environment and yourself.
+As a first-time visitor, I expect to navigate through the site with ease and find comprehensive information on sustainable living practices that benefit the environment.
 
-As a returning visitor, you can expect to receive regular updates and articles on sustainable living practices that you can incorporate into your everyday life to help achieve sustainability.
+As a returning visitor, I expect to receive regular updates and articles on sustainable living practices that you can incorporate into my everyday life to help achieve sustainability.
 
-As a frequent user, you can expect to find our contact information effortlessly for any questions or concerns you may have.
+As a frequent user, I expect to find contact information effortlessly for any questions or concerns I may have.
 
 Design
 ------
 
-Our website features a clean and modern design with a focus on sustainability. Its simple layout and ample white space enhance the readability and user experience of the site. The utilization of colors and imagery aligns with the brand's sustainable ethos and evokes an eco-friendly feel.
+Our website features a clean and modern design with a focus on sustainability. Its simple layout and ample white space enhance the readability and user experience of the site. The utilization of colours and imagery aligns with the brand's sustainable ethos and evokes an eco-friendly feel.
 
 Color Scheme
 ------------
 
-We incorporated natural earthy colors such as forest green (#00755e) and off-white (#f6f6f6) to stimulate a calm and harmonious environment that reflects the brand's sustainable values.
+We incorporated natural earthy colours such as forest green (#00755e) and off-white (#f6f6f6) to stimulate a calm and harmonious environment that reflects the brand's sustainable values.
+
 
 Typography
 ----------
@@ -40,9 +41,9 @@ The website incorporates images that align with the brand's sustainable ethos sh
 Features
 --------
 
--   Fully Responsive Design - The website is designed to be responsive to a variety of devices, including mobile phones, tablets, laptops, and desktop computers.
+-   Fully Responsive Design - The website is designed to be responsive to a variety of devices, such as mobile phones, tablets, laptops, and desktop computers.
 
--   Interactive Navigation Menu - The simple and easy-to-use navigation menu allows users to navigate around the site with ease.
+-   Interactive Navigation Menu - The easy-to-use navigation menu allows users to navigate around the site with ease. It features a hover effect to encourage users to interact and navigate through the website.
 
 ![Screenshot of Navigation](media/navigation.png)
 
@@ -50,15 +51,16 @@ Features
 
 ![Screenshot of Welcome Section](media/welcome%20section.png)
 
--   The "12 Tips" page provides a concise and actionable list of ways to reduce your carbon footprint and live an eco-friendly lifestyle. By offering simple and easy-to-implement suggestions, this section showcases how small changes can make a big impact in promoting a sustainable living lifestyle. 
+-   The news section on the website showcases a specific news article that highlights the growing trend of community vegetable gardens in the UK. By including a recent article and updating it regularly, users can see that Sustainable Life is committed to staying up-to-date with the latest news and trends in sustainability. It also encourages users to return to see the latest news.
+
+![Screenshot of News Page](media/news%20section.png)
+
+-   The "Tips" page provides a concise and actionable list of ways to reduce your carbon footprint and live an eco-friendly lifestyle. By offering suggestions that visitors can implement easily, this section showcases how small changes can make a big impact.
+Screenshot of Tips Page
 
 ![Screenshot of Tips Page](media/tips%20section.png)
 
--   The news section on the website showcases a specific news article that highlights the growing trend of community vegetable gardens in the UK. By including this article, the website demonstrates its commitment to staying up-to-date with the latest sustainability news and trends.
-
-![Screenshot of Tips Page](media/news%20section.png)
-
--   The volunteer page encourages users to volunteer and make a positive impact on the world. This section highlights the website's commitment to promoting sustainable living and how users can make a difference in their communities.
+-   The volunteer page includes a form where users can sign up to volunteer in local sustainable projects. This page transforms the website from being purely informative to a website that encourages users to get involved, volunteer and make a positive impact on the world.
 
 
 ![Screenshot of Volunteer Page](media/volunteer%20page.png)
@@ -93,7 +95,7 @@ Languages, Tools & Technologies Used
 
 ### GitHub Pages
 
-#### To access the GitHub Repository settings and publish the website, follow these steps:
+#### To deploy the site through GitHub pages, follow these steps:
 
 * Log in to GitHub and navigate to the GitHub Repository.
 
@@ -107,13 +109,15 @@ Languages, Tools & Technologies Used
 
 * After the page refreshes, locate the published website link found under the GitHub Pages header.
 
+### Forking the GitHub Repository
+
 #### If you wish to create a safe copy of the project to experiment with changes, follow these steps:
 
 * Log in to GitHub and navigate to the GitHub Repository.
 
 * Click the "Fork" button near the top of the page to create a copy of the repository.
 
-#### To make a local clone, click on the 'Code' button.
+### Making a Local Clone
 
 * Under "Clone with HTTPS", click the clipboard icon to copy the link.
 
@@ -131,7 +135,7 @@ The example Code Institute Read Me file, which this Read Me file is based on.
 
 ## Media
 
-All images were sourced from Unsplash --- a site that provides images for free for commercial and non-commercial use.
+All images were sourced from Unsplash - a site that provides images for free for commercial and non-commercial use.
 
 ## Validator Testing
 
@@ -142,6 +146,8 @@ HTML5 passed with a warning that I decided was best not to change as it would ha
 ![validator warning](media/validator-warning.png)
 
 Css3 passed without errors.
+
+![CSS Validator](media/css%20validator.png)
 
 Lighouse showed good scores.
 
